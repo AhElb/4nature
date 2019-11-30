@@ -1,0 +1,216 @@
+.navbar-brand {
+    float: right;}
+
+    .links{float: left;}
+
+    .menu li{float: right;}
+
+
+    .links a{
+    	letter-spacing: normal;
+    	font-family: sans-serif;
+    	font-size: 18px;
+    }
+    .collaps a {
+    float: left;}
+
+    .navbar-brand>img{
+    	float: right;
+    }
+    .arc{
+    	direction: rtl;
+    }
+
+    @media (max-width: 767px){
+		.slid {
+    
+    margin-top: 150px;}
+
+}
+
+	.slid {
+    
+    margin-top: 150px;}
+
+    .icon img {
+    position: absolute;
+    right: 0;}
+
+    .new-did {
+    	direction: rtl;
+    }
+
+    .new-did:hover .icon {
+	background-color: #e67e23;
+	transition: 0.3s;
+
+}
+.new-did:hover  h5{
+	padding-right:  15px;
+		padding-left:  15px;
+
+	transition: 0.3s;
+	background-color: #e67e23;
+}
+.new-did:hover .icon img{
+	position: absolute;
+	right: 15px;
+	bottom: 5px;
+	transition: 0.3s;
+}
+
+.founder h6 {
+	direction: rtl;
+}
+#nn{
+	direction: rtl;
+}
+
+.lett{
+	direction: rtl;
+}
+.contact-bg {
+    background: linear-gradient(#000000ed,#000000ed), url(con-bg-ar.jpg);
+background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact-bg .row{
+	direction: rtl;
+}
+footer::before {
+    content: " ";
+    display: block;
+    /* left: 0; */
+    width: auto;
+    border-style: solid;
+    border-width: 100px 100vw 0px 0px;
+    border-color: #121212 rgb(152, 95, 62) #985f3e #5e60b9;
+   
+}
+.foot{
+	direction: rtl;
+}
+.foot .col-md-4{
+	float: right;
+}
+
+.contact ul i {
+    padding-right: 0px;
+    padding-left: 15px;
+    text-align: center;
+}
+.contact ul li {
+    padding: 10px 0px 10px 0;
+}
+.foot .row .col-md-8{
+	padding-left: 0;
+	float: right;
+}
+
+.foot .row .col-md-4{
+padding: 0;
+}
+
+.foot #email{
+	width: 100%;
+    height: 35px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-right: 0;
+}
+.icon::after {
+    content: '';
+    display: block;
+    border-style: solid;
+    width: 100%;
+    border-width: 30px 100px 0px 0px;
+    border-color: #0d0d0d #ffa50000 blue #fd070700;
+    transition: 0.2s;
+}
+.who{direction: rtl;}
+.dare{
+}
+.vision p{
+	direction: rtl;
+	float: right;
+}
+.about-inbody h3{
+	direction: rtl;
+}
+.dare .item p{
+	direction: rtl;
+	float: none;
+}
+.why-uss{
+	direction: rtl;
+}
+.dare h2{
+	direction: rtl;
+}
+.dare .item{
+	direction: rtl;
+}
+.carer-baner h2 {
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: sans-serif;
+    direction: rtl;
+}
+.carrerr{
+	direction: rtl;
+}
+.carrerr label {
+	font-size: 18px;
+}
+.contact-us h2 {
+    position: absolute;
+    right: 10%;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+   direction: rtl;
+}
+.contact-body{
+	direction: rtl;
+}
+.products-bg h2 {
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+   direction: rtl;
+}
+.catego{
+	direction: rtl;
+}
+.items-solo h6{
+	direction: rtl;
+}
+.pagination>li:first-child>a, .pagination>li:first-child>span {
+    margin-right: 0;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+        border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.pagination>li{
+	float: right;
+}
+.pagination>li:last-child>a, .pagination>li:last-child>span {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+        border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.item-sub{
+	direction: rtl;
+}
